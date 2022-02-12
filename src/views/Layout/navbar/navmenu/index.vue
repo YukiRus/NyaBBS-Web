@@ -9,7 +9,7 @@
 </template>
 <script setup lang="ts">
 </script>
-<style>
+<style scoped>
 .el-menu{
   height: 50px !important;
   border-bottom: none !important;
