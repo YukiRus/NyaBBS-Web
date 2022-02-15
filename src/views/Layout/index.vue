@@ -3,7 +3,7 @@
     <header1></header1>
   </header>
   <div class="bg">  
-    <div style="background: #efefef;height: 1000px;" class="centers">
+    <div style="height: 1000px;" class="centers">
       <router-view></router-view>
     </div>
   </div>
