@@ -1,5 +1,6 @@
 <template>
-    <div class="centers" id="head-div">
+<div style="background-color:#fff">
+  <div class="centers" id="head-div">
     <div id="head-logo">
       <img :src="logo" alt="NyaBBS" height="40" style="margin: 5px 0;">
     </div>
@@ -10,6 +11,8 @@
       <user></user>
     </div>
   </div>
+</div>
+  
 </template>
 <script setup lang="ts">
 import logo from '../../../assets/img/logo.png'

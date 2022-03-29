@@ -10,5 +10,6 @@ import layout from './views/Layout/index.vue'
 #app {
   width: 100%;
   height: auto;
+  background: #efefef;
 }
 </style>
